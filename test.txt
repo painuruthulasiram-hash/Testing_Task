@@ -1,0 +1,6 @@
+Manual Testing Learning
+
+1. What is Manual Testing?
+2. What is Test Case?
+3. What is Test Scenario?
+4. What is Bug?
