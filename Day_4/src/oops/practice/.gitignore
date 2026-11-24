@@ -1,0 +1,12 @@
+# Ignore configuration files containing credentials
+config.properties
+
+# Ignore environment files
+.env
+
+# Ignore secret files
+secrets.properties
+
+# Ignore log files
+*.log
+.config.properties
